@@ -1,0 +1,20 @@
+
+   main.svelte-pmundd {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 100vh; /* Full viewport height */
+    background-color: #8b1c1c;
+    margin: 0;
+  }
+
+  .logo-container.svelte-pmundd {
+    text-align: center;
+    margin-bottom: 1em;
+  }
+
+  .text.svelte-pmundd {
+    font-size: 1.8em;
+    color: #ff3e00;
+  }
+
